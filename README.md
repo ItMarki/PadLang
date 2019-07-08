@@ -1,2 +1,2 @@
 # PadLang
-An esolang that intends to be very expressible, using full potential of the Unicode characters.
+用盡Unicode的程式語言。
