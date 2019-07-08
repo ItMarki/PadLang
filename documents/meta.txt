@@ -1,10 +1,10 @@
-Syntax:
-The program is composed of strings of characters.
-Each character is a character from Unicode characters in range of 0000 to ffff.
-If a character is not defined, it is a no-op.
-Starts the execution of the program from left to right.
-Reaching an either end of the program will stop execution.
-A value which are not used or dumped will be implicitly outputted.
+句:
+程式由一串串字組成的。
+每一個字是由Unicode的0000到FFFF的字。
+如果一個字沒有定義，那麼就沒有效果。
+從左至右開始程式。
+到達程式的一段就會終止。
+沒有使用或者被遺棄的值會被隱含地輸出。
 The general syntax for operators are prefix form.
 If an uninitialized variable is called, it will be type int of value 0.
 
